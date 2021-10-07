@@ -1,0 +1,60 @@
+body {
+    background-color: #81d4fa;
+    margin: 0;
+    text-align: center;
+    font-family: Serif;
+}
+
+h1 {
+    font-size: 5.625em;
+    margin-top: 0;
+    font-family: Serif;
+    line-height: 2;
+}
+
+.computer {
+    float: left;
+    width: 10%;
+    height: 10%;
+    margin-right: 20px;
+}
+
+.book {
+    width: 10%;
+    height: 10%;
+    float: right;
+    margin-left: 20px;
+    position: relative;
+    top: -15px;
+}
+p {
+
+}
+
+h2 {
+    font-family: 'Montserrat' sans-serif;
+    front-weight: normal;
+}
+h3 {
+    font-family: 'Montserrat' sans-serif;
+}
+
+.skill_row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code {
+    height: 40%;
+    width: 40%;
+}
+
+.bottom-container {
+    position: relative;
+    top: 100px;
+
+}
+.pro {
+    text-decoration: underline;
+}
